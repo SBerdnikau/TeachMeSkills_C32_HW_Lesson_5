@@ -9,7 +9,7 @@ import java.util.Scanner;
  * элемент на заданное число. Пусть число, на которое будет
  * увеличиваться каждый элемент, задается из консоли.
  */
-public class Task_1 {
+public class Task_0 {
     public static void main(String[] args) {
 
         int[][][] treeDimArray = new int[5][5][5];
