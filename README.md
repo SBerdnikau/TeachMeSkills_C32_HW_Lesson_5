@@ -1,4 +1,4 @@
-#**Here, following task are implemented**
+# Here, following task are implemented
 
 0. Create a three-dimensional array of integers.
 Using loops, "go" through the entire array and increment each
